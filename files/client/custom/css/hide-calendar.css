@@ -1,0 +1,6 @@
+/* Hide working time calendar elements and navigation links */
+.working-time-calendar-container,
+[data-name="workingTimeCalendar"],
+a[href*="WorkingTimeCalendar"] {
+    display: none !important;
+}

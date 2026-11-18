@@ -1,0 +1,7 @@
+{
+    "name": "HideCalendarExtension",
+    "version": "1.0.0",
+    "description": "Hides the working time calendar elements from the UI via custom CSS.",
+    "author": "Admin",
+    "acceptableVersions": [">=10.0.0"]
+}
